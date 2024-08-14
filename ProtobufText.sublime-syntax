@@ -9,6 +9,7 @@
 # .sublime-syntax reference: http://www.sublimetext.com/docs/3/syntax.html
 name: Protocol Buffer (TEXT)
 file_extensions:
+  - txtpb
   - pb.txt
   - proto.text
   - textpb
